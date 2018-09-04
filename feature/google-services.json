@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "583072646220",
+    "firebase_url": "https://contactus-wetware.firebaseio.com",
+    "project_id": "contactus-wetware",
+    "storage_bucket": "contactus-wetware.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583072646220:android:87de6a85e99b5a83",
+        "android_client_info": {
+          "package_name": "in.wetware.contactus.feature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583072646220-19tp31425rrjs9lje9dagk3jlcu25r72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wetware.contactus.feature",
+            "certificate_hash": "7cac73dafc0385e9f41e7db49e75f36f1ca76c66"
+          }
+        },
+        {
+          "client_id": "583072646220-hil1k6qj1smciavrp9o82b051cn84jmo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEmqv-4SGe7U0k7KO8vRx8JZpB32iAt6s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583072646220-hil1k6qj1smciavrp9o82b051cn84jmo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
